@@ -143,7 +143,7 @@ ul li a:hover {
   overflow: hidden;
 }
 .home-background {
-  background: url('image/background.jpg') no-repeat center center/cover;
+  background: url('image/main.jpg') no-repeat center center/cover;
   width: 100%;
   height: 100%;
   position: relative;
