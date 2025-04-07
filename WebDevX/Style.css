@@ -395,7 +395,7 @@ ul li a:hover {
 /* Contacts Section */
 .contact-container {
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0 5px;
   text-align: left;
 }
 .contact-info {
