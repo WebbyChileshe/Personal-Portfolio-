@@ -223,7 +223,7 @@ ul li a:hover {
 }
 .about-content {
   max-width: 600px;
-  text-align: left;
+/*   text-align: left; */
 }
 .info-card {
   background: #fff;
